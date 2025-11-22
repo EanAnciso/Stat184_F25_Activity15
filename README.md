@@ -4,7 +4,7 @@ This repository serves the purpose of completing activity 15 for Fall 2025 Stat 
 ## Data
 US Armed Forces - https://docs.google.com/spreadsheets/d/1cn4i0-ymB1ZytWXCwsJiq6fZ9PhGLUvbMBHlzqG4bwo/edit?gid=597536282#gid=597536282
                 - https://neilhatfield.github.io/Stat184_PayGradeRanks.html
-BabyNames - https://github.com/mdbeckman/dcData
+BabyNames - https://github.com/mdbeckman/dcData 
 
 ## Current Plan
 The current plan for this repo is to
