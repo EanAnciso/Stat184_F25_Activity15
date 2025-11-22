@@ -1,0 +1,24 @@
+
+Activity 14 Plan
+- Goal: Create a QMD file containing US Armed Forces Data Wrangling Redux, Popularity of Baby Names, Box Problem Volume Function, and What I have learned section
+	- Sub-goal 1: Create a proper YAML header.
+	- Sub-goal 2: Wrangle Armed Forces Data and create a two way frequency table looking at the distribution of sex in rank of a specific branch.
+	- Sub-goal 3: Use baby names data to display four chosen names and their popularity over time.
+	- Sub-goal 4: Create volume function and graph the function in regard to the cutout side length for the box problem.
+	- Sub-goal 5: Create an organized section explaining what I have learned in the class so far.
+- Needs:
+	- Armed Forces Wrangling Code, Baby Names Wrangling Code, Volume function
+	- ggplot visualization code
+	- code appendix 
+
+Activity 15 Plan
+- Goal: Create a GitHub repository for activity 15
+	- Sub-goal 1: Create a dev branch
+	- Sub-goal 2: Create a good README file
+	- Sub-goal 3: Add activity 14 files
+	- Sub-goal 4: Create and resolve issues 
+- Needs:
+	- GitHub(Website)
+	- GitHub Desktop
+	- R Studio
+
